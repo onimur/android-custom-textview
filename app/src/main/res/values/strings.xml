@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConfigTextviewChange</string>
+
+    <string-array name="Config">
+        <item>Casual</item>
+        <item>Cursiva</item>
+        <item>Bastão</item>
+
+    </string-array>
+</resources>
