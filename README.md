@@ -18,13 +18,13 @@ and then clone
 ```
 
 ## Prints
-![](https://github.com/MurilloComino/custom-textview/tree/master/resources/1.JPG)
+![](https://github.com/MurilloComino/custom-textview/blob/master/resources/1.jpg?raw=true)
 
-![](https://github.com/MurilloComino/custom-textview/tree/master/resources/2.JPG)
+![](https://github.com/MurilloComino/custom-textview/blob/master/resources/2.JPG?raw=true)
 
-![](https://github.com/MurilloComino/custom-textview/tree/master/resources/3.JPG)
+![](https://github.com/MurilloComino/custom-textview/blob/master/resources/3.JPG?raw=true)
 
-![](https://github.com/MurilloComino/custom-textview/tree/master/resources/4.JPG)
+![](https://github.com/MurilloComino/custom-textview/blob/master/resources/4.JPG?raw=true)
 
 ## Built With
 
