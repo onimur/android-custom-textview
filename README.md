@@ -17,6 +17,15 @@ in URL put: https://github.com/MurilloComino/custom-textview.git
 and then clone
 ```
 
+## Prints
+![](https://github.com/MurilloComino/custom-textview/tree/master/resources/1.JPG)
+
+![](https://github.com/MurilloComino/custom-textview/tree/master/resources/2.JPG)
+
+![](https://github.com/MurilloComino/custom-textview/tree/master/resources/3.JPG)
+
+![](https://github.com/MurilloComino/custom-textview/tree/master/resources/4.JPG)
+
 ## Built With
 
 * [Android Studio 3.5](https://developer.android.com/studio) - The IDE used

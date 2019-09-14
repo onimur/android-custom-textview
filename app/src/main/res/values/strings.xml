@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ConfigTextviewChange</string>
+    <string name="app_name">CustomTextView</string>
 
     <string-array name="Config">
         <item>Casual</item>
