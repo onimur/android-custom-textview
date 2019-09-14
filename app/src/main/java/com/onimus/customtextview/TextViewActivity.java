@@ -1,7 +1,7 @@
-package com.example.configtextviewchange;
+package com.onimus.customtextview;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class TextViewActivity extends AppCompatActivity {
 
@@ -9,11 +9,5 @@ public class TextViewActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_textview);
 
-        /*
-        Caso queira inicializar o TextView:
-        NewTextView textView;
-        textView = findViewById(R.id.textview);*/
     }
-
-
 }

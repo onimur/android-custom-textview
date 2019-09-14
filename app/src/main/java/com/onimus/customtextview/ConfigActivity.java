@@ -1,8 +1,8 @@
-package com.example.configtextviewchange;
+package com.onimus.customtextview;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Button;
@@ -17,7 +17,7 @@ public class ConfigActivity extends AppCompatActivity {
     public static final String BASTAO = "Bastão";
 
     private Spinner spinner;
-    private Button buttonSalvar;
+    private Button buttonSave;
     private SharedPreferences preferences;
 
 
@@ -27,7 +27,7 @@ public class ConfigActivity extends AppCompatActivity {
         setContentView(R.layout.activity_config);
 
         spinner = findViewById(R.id.spinner);
-        buttonSalvar = findViewById(R.id.button3);
+        buttonSave = findViewById(R.id.button3);
         preferences = getSharedPreferences(USER_FONTFAMILY, MODE_PRIVATE);
 
         spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
@@ -42,7 +42,7 @@ public class ConfigActivity extends AppCompatActivity {
             }
         });
 
-        buttonSalvar.setOnClickListener(new View.OnClickListener() {
+        buttonSave.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String selectedItem = (String) spinner.getSelectedItem();

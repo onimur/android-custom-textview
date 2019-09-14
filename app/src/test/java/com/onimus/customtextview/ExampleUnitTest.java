@@ -1,4 +1,4 @@
-package com.example.configtextviewchange;
+package com.onimus.customtextview;
 
 import org.junit.Test;
 

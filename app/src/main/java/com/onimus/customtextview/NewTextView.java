@@ -1,16 +1,16 @@
-package com.example.configtextviewchange;
+package com.onimus.customtextview;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Typeface;
-import android.support.v7.widget.AppCompatTextView;
+import androidx.appcompat.widget.AppCompatTextView;
 import android.util.AttributeSet;
 
-import static com.example.configtextviewchange.ConfigActivity.BASTAO;
-import static com.example.configtextviewchange.ConfigActivity.CASUAL;
-import static com.example.configtextviewchange.ConfigActivity.CURSIVA;
-import static com.example.configtextviewchange.ConfigActivity.FONTFAMILY;
-import static com.example.configtextviewchange.ConfigActivity.USER_FONTFAMILY;
+import static com.onimus.customtextview.ConfigActivity.BASTAO;
+import static com.onimus.customtextview.ConfigActivity.CASUAL;
+import static com.onimus.customtextview.ConfigActivity.CURSIVA;
+import static com.onimus.customtextview.ConfigActivity.FONTFAMILY;
+import static com.onimus.customtextview.ConfigActivity.USER_FONTFAMILY;
 
 public class NewTextView extends AppCompatTextView {
     private Context context;
