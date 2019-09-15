@@ -1,4 +1,4 @@
-# CustomListView
+# Custom TextView
 
 This project is an example of how to create a simple custom textview to use alongside XML or just in programming. From this model it is possible to create configurations from the user's choice and define for all implemented textviews.
 
