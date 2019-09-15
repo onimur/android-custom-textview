@@ -28,4 +28,4 @@ and then clone
 
 ## License
 
-* [Apache License 2.0](https://github.com/MurilloComino/bottom-navigation/blob/master/LICENSE.md)
+* [Apache License 2.0](https://github.com/MurilloComino/custom-textview/blob/master/LICENSE.md)
