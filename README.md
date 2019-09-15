@@ -6,20 +6,20 @@ In answer to a [Stack Overflow (Pt-BR)](https://pt.stackoverflow.com/a/371672/12
 ## Getting Started
 #### Using Git Bash
 ```
-git clone git@github.com:MurilloComino/custom-textview.git
+git clone git@github.com:MurilloComino/android-custom-textview.git
 ```
 
 #### Using Android Studio
 ```
 in File > New > Project from Version Control... > git
 
-in URL put: https://github.com/MurilloComino/custom-textview.git
+in URL put: https://github.com/MurilloComino/android-custom-textview.git
 
 and then clone
 ```
 
 ## Example
-![](https://github.com/MurilloComino/custom-textview/blob/master/resources/1.gif?raw=true)
+![](https://github.com/MurilloComino/android-custom-textview/blob/master/resources/1.gif?raw=true)
 
 
 ## Built With
@@ -28,4 +28,4 @@ and then clone
 
 ## License
 
-* [Apache License 2.0](https://github.com/MurilloComino/custom-textview/blob/master/LICENSE.md)
+* [Apache License 2.0](https://github.com/MurilloComino/android-custom-textview/blob/master/LICENSE.md)
